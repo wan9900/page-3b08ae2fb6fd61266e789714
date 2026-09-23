@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "6c1581922806410c627d2957",
+  "owner": "wan9900",
+  "repo": "page-3b08ae2fb6fd61266e789714",
+  "title": "甜甜圈",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "3b08ae2fb6fd61266e789714",
+      "a": "甜甜圈",
+      "b": "2027官方最新地址导航",
+      "entity": "甜甜圈",
+      "brand": "甜甜圈",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "703353397ad9d99b8eeed2340e4bf0288b47017a8c538f39becf63a1f830d058",
+      "content": {
+        "primary_entity": "甜甜圈",
+        "keyword1": "甜甜圈",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按你的设备挑选合适的客户端并完成订阅配置。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "甜甜圈提供多档套餐与多设备客户端配置支持，按你的上网习惯挑选合适的方案。",
+          "AI_CLOSING_TITLE": "选对套餐，轻松加速",
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置和套餐对比展开，帮助你在基础版、旗舰版与团队版之间找到合适档位。基础版适合轻度单人与两三台设备；旗舰版提供 300GB 流量、5 台设备和 IPLC 专线游戏加速；团队版提供 1000GB 流量与 20 台设备，适合小团队协作。所有套餐均可按年付，价格更实惠。",
+          "AI_FEATURES_INTRO": "从流量、设备数量与节点类型三个维度判断套餐是否匹配你的使用场景。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB、3 台设备，适合日常浏览与轻度视频；旗舰版每月 300GB、5 台设备，满足多设备并行。",
+          "AI_FEATURE_TEXT_2": "旗舰版包含 IPLC 专线游戏加速与全节点原生流媒体解锁，团队版则提供 VIP 专属高带宽节点与定制路由。",
+          "AI_FEATURE_TEXT_3": "三档套餐均支持按年付，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，长期使用更划算。",
+          "AI_FEATURE_TITLE_1": "流量与设备数量",
+          "AI_FEATURE_TITLE_2": "节点与专线能力",
+          "AI_FEATURE_TITLE_3": "计费周期与年付",
+          "AI_GUIDE_INTRO": "确认套餐档位、核对设备适配要求，再依客户端文档导入订阅即可开始使用。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_HERO_INTRO": "甜甜圈提供基础版、旗舰版与团队版三档加速套餐，覆盖个人日常浏览、流媒体解锁、游戏加速与小团队协作等场景。你可以根据每月所需流量、同时在线设备数量以及节点类型选择合适档位，并参考客户端说明完成订阅配置。",
+          "AI_HERO_SUBTITLE": "多档套餐，适配不同设备",
+          "AI_HIGHLIGHT_1": "月付 ¥15 起，年付更省",
+          "AI_HIGHLIGHT_2": "IPLC 专线游戏加速",
+          "AI_HIGHLIGHT_3": "团队版支持 20 台设备",
+          "AI_PLANS_INTRO": "基础版每月 100GB、3 台设备；旗舰版每月 300GB、5 台设备并带 IPLC 专线；团队版每月 1000GB、20 台设备。三档均可年付，按需选择即可。",
+          "AI_PLANS_TITLE": "对比三档套餐",
+          "AI_STEP_TEXT_1": "根据每月流量需求、同时在线设备数量与节点偏好，在基础版、旗舰版、团队版中选定合适档位。",
+          "AI_STEP_TEXT_2": "核对所选套餐的流量额度、设备上限与节点类型，确认是否满足手机、电脑或路由器的接入需要。",
+          "AI_STEP_TEXT_3": "按照你所使用客户端的订阅导入说明完成配置，保存后即可连接使用。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TITLE_2": "查看设备适配要求",
+          "AI_STEP_TITLE_3": "依客户端文档配置订阅",
+          "AI_VISUAL_TITLE": "甜甜圈加速套餐",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "甜甜圈基础版适合什么使用场景？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、支持 3 台设备同时在线，配有普通线路节点池，适合单人日常浏览与轻度流媒体使用。",
+          "AI_FAQ_QUESTION_2": "旗舰版的 IPLC 专线有什么作用？",
+          "AI_FAQ_ANSWER_2": "旗舰版提供 IPLC 专线游戏加速优化，同时支持 5 台设备与每月 300GB 流量，适合对流媒体解锁和游戏延迟有要求的用户。",
+          "AI_FAQ_QUESTION_3": "团队版是否支持更多设备同时在线？",
+          "AI_FAQ_ANSWER_3": "团队版支持 20 台设备同时在线，每月 1000GB 流量，另有 VIP 专属高带宽节点与定制路由，并配有专属客户经理服务。",
+          "AI_FAQ_QUESTION_4": "年付比月付能省多少？",
+          "AI_FAQ_ANSWER_4": "基础版月付 ¥15、年付 ¥150；旗舰版月付 ¥35、年付 ¥350；团队版月付 ¥85、年付 ¥850。年付相当于按十个月计价，长期使用更划算。",
+          "AI_FAQ_QUESTION_5": "如何把订阅导入到客户端？",
+          "AI_FAQ_ANSWER_5": "先按设备类型选择对应客户端，再参照客户端文档导入订阅链接，完成节点选择后即可连接使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "nnrwcbn.cn",
+    "host": "nnrwcbn.cn"
+  },
+  "file_hashes": {
+    "index.html": "7e41413b766eb5ad43729006c93fe1e4b47aad2d81fdd08b3d172532dd98b7e0",
+    "sitemap.xml": "0ab5de08adb8b9c1734f17bd99664ec23f1bd3ca176bc2c561ceadf9ff75b038",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "f9cbc6a56ed08828495afbf06ccaaa6445c455bac9d43f0b8cf9ccd29958372f",
+    "robots.txt": "ce9b8c4487fb25d93996343c4c840211bba3f1c24246a3612decc7d656ed13b0",
+    "377f2c0126c4727a81faa210a7003164.txt": "37051640758e8a2781b894a2829cf44b00bb355f1e2c5df05c27f0ee525bdd1d"
+  },
+  "revision": "79f63c08944d0830e2f5e39835e7e03700a8f92fee709580bc1e38561acfe9f9"
+}
